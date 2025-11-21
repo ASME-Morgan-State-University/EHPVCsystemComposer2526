@@ -19,9 +19,10 @@
       <elemProxy type="systemcomposer.services.proxy.ProxyTarget" uuid="bd408470-047e-4eb7-afe0-04c16dc72166"/>
     </prototypes>
     <prototypes type="systemcomposer.profile.Prototype" uuid="45183c07-fac2-43d7-afd2-8e52c3d2c997">
-      <appliesTo>Connector</appliesTo>
+      <appliesTo>Port</appliesTo>
       <connectorLineColor type="systemcomposer.profile.RGBValueStruct">
-        <RED>255</RED>
+        <GREEN>84</GREEN>
+        <RED>221</RED>
       </connectorLineColor>
       <p_Name>PowerLine</p_Name>
       <defaultStereotypeMap type="systemcomposer.profile.DefaultStereotypeMap" uuid="a6592aa4-aed2-45a4-80a8-86bce824a228"/>
