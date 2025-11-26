@@ -18,6 +18,23 @@
       </propertySet>
       <elemProxy type="systemcomposer.services.proxy.ProxyTarget" uuid="bd408470-047e-4eb7-afe0-04c16dc72166"/>
     </prototypes>
+    <prototypes type="systemcomposer.profile.Prototype" uuid="e67044be-5f90-4cde-b7c9-f19936a5a497">
+      <appliesTo>Port</appliesTo>
+      <connectorLineColor type="systemcomposer.profile.RGBValueStruct">
+        <BLUE>38</BLUE>
+        <GREEN>38</GREEN>
+        <RED>38</RED>
+      </connectorLineColor>
+      <connectorLineStyle>DASH_DOT_DOT</connectorLineStyle>
+      <p_Name>MechanicalConnectionLine</p_Name>
+      <defaultStereotypeMap type="systemcomposer.profile.DefaultStereotypeMap" uuid="5ceb88ff-fa73-4ceb-a400-c775b50237a2"/>
+      <metaAttributes type="mf.zero.meta.AttributeMap" uuid="75bbb6b0-34b4-4ef5-a6c7-234d33fcd9f1"/>
+      <propertySet type="systemcomposer.property.PropertySet" uuid="dd56e021-e81d-45c2-ae46-6aed1d18647a">
+        <p_Name>MechanicalConnectionLine</p_Name>
+        <elemProxy type="systemcomposer.services.proxy.ProxyTarget" uuid="a8512504-0025-4696-bf3d-0ae01468f03a"/>
+      </propertySet>
+      <elemProxy type="systemcomposer.services.proxy.ProxyTarget" uuid="dfc79309-98cf-4548-af75-82b88d6f5be6"/>
+    </prototypes>
     <prototypes type="systemcomposer.profile.Prototype" uuid="45183c07-fac2-43d7-afd2-8e52c3d2c997">
       <appliesTo>Port</appliesTo>
       <connectorLineColor type="systemcomposer.profile.RGBValueStruct">
@@ -32,6 +49,23 @@
         <elemProxy type="systemcomposer.services.proxy.ProxyTarget" uuid="bf50ca22-d066-4ea8-b733-3b61f2506761"/>
       </propertySet>
       <elemProxy type="systemcomposer.services.proxy.ProxyTarget" uuid="3ba12da6-5c78-40fa-b3ca-f4eb156dd6af"/>
+    </prototypes>
+    <prototypes type="systemcomposer.profile.Prototype" uuid="579d0718-6b6f-452e-b16f-6a2b6a711479">
+      <appliesTo>Component</appliesTo>
+      <componentHeaderColor type="systemcomposer.profile.RGBValueStruct">
+        <BLUE>50</BLUE>
+        <GREEN>170</GREEN>
+        <RED>59</RED>
+      </componentHeaderColor>
+      <icon>GENERIC</icon>
+      <p_Name>Subsystem</p_Name>
+      <defaultStereotypeMap type="systemcomposer.profile.DefaultStereotypeMap" uuid="37c21ec9-a618-4f17-9fe9-f429212cf9fa"/>
+      <metaAttributes type="mf.zero.meta.AttributeMap" uuid="e73b3290-f5ad-4434-bedc-20a01d03bf38"/>
+      <propertySet type="systemcomposer.property.PropertySet" uuid="55185204-7790-4c03-93fc-14a9eeaaa1f3">
+        <p_Name>Subsystem</p_Name>
+        <elemProxy type="systemcomposer.services.proxy.ProxyTarget" uuid="ad51c9fc-deb4-4d88-add5-f1129a6f1ccd"/>
+      </propertySet>
+      <elemProxy type="systemcomposer.services.proxy.ProxyTarget" uuid="acf9145d-2ce0-407d-8e65-756f1beefe2f"/>
     </prototypes>
     <prototypes type="systemcomposer.profile.Prototype" uuid="66959f5e-0d99-475a-86fe-01156470264d">
       <appliesTo>Component</appliesTo>
